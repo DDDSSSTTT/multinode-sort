@@ -3,7 +3,8 @@ CSE 224 Winter 2022 Project 2 Starter Code
 ---
 
 ## About the project
-Noted: The code is only for display, any PLAGIARISM is NOT approved
+Noted: The code is only for display, any PLAGIARISM is NOT approved.
+
 The starter-code in this repository contains some utilities and some
 initial code in the source `netsort.go` file that you will use to create
 a **distributed sort** program. This is an extension of the sort program
