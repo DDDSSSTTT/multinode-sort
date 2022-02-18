@@ -1,6 +1,6 @@
 # **Project 2 : Distributed Sort**
 CSE 224 Winter 2022 Project 2 Starter Code
-
+Noted: The code is only for display, any PLAGIARISM is NOT approved
 ---
 
 ## About the project
